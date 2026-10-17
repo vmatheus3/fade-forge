@@ -1,0 +1,18 @@
+I want to use FadeForge, the FREE local barber video editing skill at
+https://github.com/vmatheus3/fade-forge .
+
+Please create a NEW, EMPTY folder named FadeForge-Barber and clone ONLY this repo
+into it. Do not access, copy, connect, or modify any of my other projects.
+Read its AGENTS.md and .agents/skills/fadeforge/SKILL.md. Set up and test the
+local Mac-native Swift editing tool for me. Do not use cloud rendering, third-party
+APIs, external services, Docker, editing subscriptions, or additional apps.
+
+After setup, ask me for my business logo and optional old reels. Save the exact
+logo permanently in this project's private files without ever changing it unless
+I explicitly ask. Save my editing style in brand/STYLE.md. Thereafter, let me
+send before, haircut-process, and after footage with simple chat instructions,
+and return a finished, silent, branded vertical MP4 in outputs/.
+
+If you cannot access files attached to this conversation or your environment is
+not a local Mac with AVFoundation, explain clearly what I must do; do not claim a
+video has been processed unless the actual MP4 exists.

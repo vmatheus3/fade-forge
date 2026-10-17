@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" width="1200" height="690" role="img" aria-label="FadeForge illustrated everyday workflow: provide before, haircut-process, and after clips, give editing instructions in Codex chat, receive a branded MP4. Not an actual screenshot.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d111a"/><stop offset="1" stop-color="#171a29"/></linearGradient><style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}.t{fill:#fff}.muted{fill:#b2bbcb}.gold{fill:#ffcf70}.panel{fill:#1e2432;stroke:#49566b;stroke-width:2}</style></defs>
+<rect width="1200" height="690" fill="url(#bg)"/><rect width="1200" height="7" fill="#eab357"/>
+<text x="48" y="84" class="gold" font-size="25" font-weight="800" letter-spacing="2">FADEFORGE</text>
+<text x="48" y="141" class="t" font-size="51" font-weight="800">Everyday use: just talk to Codex</text>
+<text x="48" y="181" class="muted" font-size="22">Give it barber footage and one simple instruction</text>
+<rect x="45" y="226" width="510" height="310" rx="18" class="panel"/>
+<text x="72" y="264" class="t" font-size="24" font-weight="700">1. Send three types of clips</text>
+<g transform="translate(67,285)">
+ <g><rect x="0" y="0" width="134" height="175" rx="12" fill="#31425b" stroke="#a6b2c3" stroke-width="2"/><circle cx="67" cy="59" r="31" fill="#c69c7c"/><path d="M36 52q28-65 61 0" fill="#27242b"/><path d="M18 160q49-93 98 0" fill="#131821"/><text x="67" y="198" class="gold" font-size="19" text-anchor="middle" font-weight="700">BEFORE</text></g>
+ <g transform="translate(151,0)"><rect x="0" y="0" width="134" height="175" rx="12" fill="#31425b" stroke="#a6b2c3" stroke-width="2"/><circle cx="67" cy="59" r="31" fill="#c69c7c"/><path d="M36 52q28-48 61 0" fill="#25252b"/><path d="M18 160q49-93 98 0" fill="#131821"/><path d="M94 45l29 55 M121 48l-23 53" stroke="#ffc46c" stroke-width="6"/><text x="67" y="198" class="gold" font-size="19" text-anchor="middle" font-weight="700">DURING</text></g>
+ <g transform="translate(302,0)"><rect x="0" y="0" width="134" height="175" rx="12" fill="#31425b" stroke="#f1bb61" stroke-width="3"/><circle cx="67" cy="59" r="31" fill="#c69c7c"/><path d="M36 52q28-38 61 0" fill="#1e1e24"/><path d="M18 160q49-93 98 0" fill="#131821"/><text x="67" y="198" class="gold" font-size="19" text-anchor="middle" font-weight="700">AFTER</text></g>
+</g>
+<path d="M574 376h38" stroke="#f1bd67" stroke-width="6" stroke-linecap="round"/><path d="M600 361l16 15-16 15" fill="none" stroke="#f1bd67" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="629" y="226" width="526" height="310" rx="18" class="panel"/>
+<text x="656" y="264" class="t" font-size="24" font-weight="700">2. Describe the edit in chat</text>
+<rect x="655" y="291" width="463" height="152" rx="17" fill="#0c1320" stroke="#5a7190"/>
+<text x="675" y="321" fill="#79b9ff" font-size="17" font-weight="700">YOU</text>
+<text x="675" y="355" class="t" font-size="20">Make a 25-second vertical reel.</text>
+<text x="675" y="385" class="t" font-size="20">Fast cuts, smooth transitions,</text>
+<text x="675" y="415" class="t" font-size="20">my saved logo. No voiceover.</text>
+<rect x="655" y="460" width="463" height="49" rx="12" fill="#183c32" stroke="#379977"/>
+<text x="887" y="493" class="t" font-size="19" text-anchor="middle">Codex edits locally on your Mac</text>
+<rect x="46" y="565" width="1109" height="82" rx="15" fill="#1b2b26" stroke="#45b992" stroke-width="2"/>
+<circle cx="96" cy="606" r="25" fill="#54cf9e"/><path d="M84 606l9 9 17-19" fill="none" stroke="#0b1b15" stroke-width="6" stroke-linecap="round"/>
+<text x="142" y="599" class="t" font-size="25" font-weight="800">3. Receive your finished MP4 in outputs/</text>
+<text x="142" y="630" class="muted" font-size="19">Same original logo · Saved STYLE.md · Before → During → After · Silent video</text>
+</svg>

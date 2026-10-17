@@ -1,0 +1,15 @@
+.DS_Store
+.build/
+*.swiftdoc
+*.swiftmodule
+*.swiftsourceinfo
+brand/logo.json
+brand/STYLE.md
+brand/originals/
+media/before/*
+media/process/*
+media/after/*
+media/reference/*
+outputs/*
+!media/**/.gitkeep
+!outputs/.gitkeep

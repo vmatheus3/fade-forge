@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" width="1200" height="690" role="img" aria-label="FadeForge illustrated setup in four steps: open local Codex on your Mac, paste the repository prompt, share your logo, then upload barber clips. Not an actual application screenshot.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10131d"/><stop offset="1" stop-color="#080c14"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e4a740"/><stop offset="1" stop-color="#ffdc92"/></linearGradient>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}.t{fill:#f8fafc}.s{fill:#aab4c8}.gold{fill:#ffd68a}.panel{fill:#171d2c;stroke:#3a465b;stroke-width:2}.line{stroke:#e4ae59;stroke-width:5;stroke-linecap:round;fill:none}</style>
+</defs>
+<rect width="1200" height="690" fill="url(#bg)"/>
+<rect width="1200" height="8" fill="url(#accent)"/>
+<text x="55" y="82" class="gold" font-size="24" font-weight="700" letter-spacing="3">FADEFORGE</text>
+<text x="55" y="140" class="t" font-size="51" font-weight="800">Install once. Edit in Codex.</text>
+<text x="55" y="180" class="s" font-size="23">Four illustrated steps for a barber with no technical experience</text>
+
+<g transform="translate(50,226)">
+ <rect width="262" height="330" rx="20" class="panel"/>
+ <circle cx="36" cy="40" r="23" fill="#f4bc62"/><text x="36" y="49" text-anchor="middle" font-weight="800" font-size="28" fill="#141721">1</text>
+ <text x="24" y="98" class="t" font-size="25" font-weight="800">Open local Codex</text>
+ <text x="24" y="129" class="s" font-size="17">On your own Mac</text>
+ <rect x="34" y="154" width="194" height="112" rx="12" fill="#0b0f18" stroke="#65758b" stroke-width="3"/>
+ <rect x="46" y="168" width="170" height="81" rx="5" fill="#263246"/>
+ <circle cx="131" cy="207" r="26" fill="#f0b653"/><path d="M119 207l10 10 17-22" fill="none" stroke="#0b0f18" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M18 275H245L230 289H32Z" fill="#8190a4"/>
+ <text x="131" y="309" class="s" text-anchor="middle" font-size="15">Use a new workspace</text>
+</g>
+<g transform="translate(329,226)">
+ <rect width="262" height="330" rx="20" class="panel"/>
+ <circle cx="36" cy="40" r="23" fill="#f4bc62"/><text x="36" y="49" text-anchor="middle" font-weight="800" font-size="28" fill="#141721">2</text>
+ <text x="24" y="98" class="t" font-size="25" font-weight="800">Paste one prompt</text>
+ <text x="24" y="129" class="s" font-size="17">Codex sets it up</text>
+ <rect x="20" y="155" width="222" height="119" rx="13" fill="#0b0f18" stroke="#52647d"/>
+ <text x="35" y="181" fill="#77a7f3" font-size="15" font-weight="700">YOU TO CODEX</text>
+ <text x="35" y="208" class="t" font-size="15">Set up FadeForge from</text>
+ <text x="35" y="233" class="gold" font-size="14">github.com/vmatheus3/</text>
+ <text x="35" y="254" class="gold" font-size="14">fade-forge</text>
+ <text x="131" y="309" class="s" text-anchor="middle" font-size="15">No separate editor</text>
+</g>
+<g transform="translate(608,226)">
+ <rect width="262" height="330" rx="20" class="panel"/>
+ <circle cx="36" cy="40" r="23" fill="#f4bc62"/><text x="36" y="49" text-anchor="middle" font-weight="800" font-size="28" fill="#141721">3</text>
+ <text x="24" y="98" class="t" font-size="25" font-weight="800">Send your logo</text>
+ <text x="24" y="129" class="s" font-size="17">Only the first time</text>
+ <rect x="45" y="158" width="172" height="115" rx="13" fill="#0c101a" stroke="#bf995b" stroke-width="3"/>
+ <path d="M107 205l23-28 25 28" class="line"/>
+ <rect x="101" y="208" width="59" height="37" rx="7" stroke="#ffdf9d" stroke-width="4" fill="none"/>
+ <path d="M168 207v20a14 14 0 0 0 28 0v-20a14 14 0 0 0-28 0z" fill="#48c79b"/>
+ <path d="M178 207v-6a4 4 0 0 1 8 0v6" stroke="#48c79b" stroke-width="5" fill="none"/>
+ <text x="131" y="309" class="s" text-anchor="middle" font-size="15">Original stays saved</text>
+</g>
+<g transform="translate(887,226)">
+ <rect width="262" height="330" rx="20" class="panel"/>
+ <circle cx="36" cy="40" r="23" fill="#f4bc62"/><text x="36" y="49" text-anchor="middle" font-weight="800" font-size="28" fill="#141721">4</text>
+ <text x="24" y="98" class="t" font-size="25" font-weight="800">Start sending clips</text>
+ <text x="24" y="129" class="s" font-size="17">Chat with Codex</text>
+ <g transform="translate(22,167)"><rect x="0" y="0" width="63" height="95" rx="10" stroke="#777f94" stroke-width="2" fill="#253049"/><rect x="77" y="0" width="63" height="95" rx="10" stroke="#777f94" stroke-width="2" fill="#253049"/><rect x="154" y="0" width="63" height="95" rx="10" stroke="#eab760" stroke-width="2" fill="#253049"/>
+ <circle cx="31" cy="39" r="16" fill="#bd9e86"/><path d="M10 81q22-36 43 0" fill="#171b21"/>
+ <circle cx="108" cy="39" r="16" fill="#bd9e86"/><path d="M87 81q22-36 43 0" fill="#171b21"/><path d="M91 28l32 26" stroke="#f4bc62" stroke-width="4"/>
+ <circle cx="185" cy="39" r="16" fill="#bd9e86"/><path d="M164 81q22-36 43 0" fill="#171b21"/>
+ </g>
+ <text x="131" y="309" class="s" text-anchor="middle" font-size="15">Before · During · After</text>
+</g>
+<path d="M314 393h13 M593 393h13 M872 393h13" class="line"/>
+<rect x="50" y="583" width="1099" height="69" rx="15" fill="#212634" stroke="#434d61"/>
+<text x="600" y="612" class="t" font-size="21" text-anchor="middle" font-weight="700">Everything runs locally on your Mac through Codex.</text>
+<text x="600" y="639" class="s" font-size="18" text-anchor="middle">No cloud renderer · No extra subscription · No external video service</text>
+</svg>

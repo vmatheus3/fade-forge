@@ -1,0 +1,27 @@
+#!/bin/bash
+set -euo pipefail
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+if [[ "$(uname -s)" != "Darwin" ]]; then
+  echo "FadeForge local rendering requires macOS and Apple's AVFoundation." >&2
+  echo "Open this repository using local Codex on a Mac; cloud/Linux Codex cannot render this version." >&2
+  exit 2
+fi
+if ! xcrun --find swiftc >/dev/null 2>&1; then
+  echo "Apple Swift compiler not found. Install Apple's free Command Line Tools:" >&2
+  echo "  xcode-select --install" >&2
+  exit 2
+fi
+# Each user gets a private, untracked style file copied from the fresh template.
+if [[ ! -f "$ROOT/brand/STYLE.md" ]]; then
+  cp "$ROOT/brand/STYLE.example.md" "$ROOT/brand/STYLE.md"
+fi
+mkdir -p "$ROOT/.build"
+BIN="$ROOT/.build/fadeforge"
+SRC="$ROOT/src/FadeForge.swift"
+if [[ ! -x "$BIN" || "$SRC" -nt "$BIN" ]]; then
+  echo "Compiling FadeForge with Apple Swift (one-time setup)..." >&2
+  xcrun swiftc -swift-version 5 -O "$SRC" -framework AVFoundation -framework CoreGraphics \
+    -framework QuartzCore -framework AppKit -o "$BIN"
+fi
+cd "$ROOT"
+exec "$BIN" "$@"
